@@ -62,7 +62,7 @@ p{
     background-position: right;
 }
 .bg{
-    margin-top: -180px;
+    margin-top: -310px;
 }
 
 .shade{
@@ -74,18 +74,23 @@ p{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+    
 }
 
 #leftline-one{
     border-left: 10px solid;
     border-image: linear-gradient(lightsalmon, tomato);
     border-image-slice: 1;
+    background-color: white;
 }
 
 #leftline-two{
     border-left: 10px solid;
     border-image: linear-gradient(lightsalmon, tomato);
     border-image-slice: 1;
+}
+.bg2{
+    margin-top: -250px;
 }
 #footer{
     text-align: center;
